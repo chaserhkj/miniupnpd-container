@@ -1,2 +1,2 @@
 #!/bin/sh
-exec miniupnpd "$@"
+exec miniupnpd -d "$@"
